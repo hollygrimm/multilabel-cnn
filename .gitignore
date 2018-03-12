@@ -1,0 +1,9 @@
+#input files
+input/
+#output files
+vocab.pkl
+#checkpoints
+checkpoint
+multilabel_cnn.ckpt*
+# Byte-compiled / optimized / DLL files
+__pycache__/
